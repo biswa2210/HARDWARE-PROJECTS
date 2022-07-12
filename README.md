@@ -1,10 +1,9 @@
-# HARDWARE-PROJECTS
-# JARVIS_ASSISTANT :star_struck: :open_mouth: :running: :star2:
+# Augmented-Reality-Projects :star_struck: :open_mouth: :running: :star2:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-time-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/GUI-tkinter-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/augmented-reality-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Markerless-AR-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Marker--based-AR-critical)](https://shields.io/)
 <br>
 
-***This new Snake Game using Python is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***These Augmented Reality Projects are created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -21,57 +20,85 @@
 
 <div align="justified">
     
-The name of the game is Hungry Snake. It is a [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) made by Python3. When we run the program we can see a GUI window opens for Snake Game. Here we can choose the speed of our snake by increasing and decreasing it. Here a queue of background music plays while playing the game. Also the highest score upto that time is showed on the screen. When the snake bites itself or goes out of the window the game is over. For starting it we have to press c and for quiting it we have to press q. The more the snake eats it becomes bigger. Snake game is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. The concept originated in the 1976 arcade game Blockade, and the ease of implementing Snake has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in the snake concept as it found a larger audience. The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind, resembling a moving snake. In some games, the end of the trail is in a fixed position, so the snake continually gets longer as it moves. In another common scheme, the snake has a specific length, so there is a moving tail a fixed number of units away from the head. The player loses when the snake runs into the screen border, a trail, other obstacle, or itself. When the game is over the high score is stored and we can see this. 
+    
+## 1. Unity First ball Dropping
+### :point_right: <a href="https://drive.google.com/file/d/1jW0mBl5U3HxKHYOk21np8VTleaVthiqK/view">Click here to get project</a>
+### :point_right: <a href="">Click here to watch demo video</a>
+### :point_right: Description-->
+
+## 2. Barberian King (Marker-based)
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=bmEUttjNySc&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=2">Click here to watch demo video</a>
+### :point_right: Description-->
+
+## 3. AR-Book (Marker Based AR) 
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=3qP42WlmMzQ&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=2">Click here to watch demo video</a>
+### :point_right: Description-->
+
+## 4. Romi’s HBD Greeting Card (Marker Based AR)
+### :point_right: <a href="https://drive.google.com/file/d/1n44HmGa0aR5J5vJmeHFyjsHH9Xm1lN_5/view">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=OkjPuTc7F28&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=3">Click here to watch demo video</a>
+### :point_right: Description-->
+
+## 5. My Fav List Card (Marker Based AR) 
+### :point_right: <a href="https://drive.google.com/file/d/1MweqA8uXZPU_JIaGCtudFALyEenDXLIB/view">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=wpvzp7GqWB4&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=5">Click here to watch demo video</a>
+### :point_right: Description-->
+
+## 6. AR Virtual Buttons (Marker Based AR) 
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=Rt7nltykzWA&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=5">Click here to watch demo video</a>
+### :point_right: Description-->
+
+## 7. Box Placing (MarkerLess AR) 
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=fqHgjUFmVtQ&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=8">Click here to watch demo video</a>
+### :point_right: Description-->
+### :point_right: <a href="">Click here to download app</a>
+
+## 8. Multiple Spider Placing (MarkerLess AR) 
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=NZ9W4qDoX2Q&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=6">Click here to watch demo video</a>
+### :point_right: Description-->
+### :point_right: <a href="">Click here to download app</a>
+
+## 9. Car Placing (MarkerLess AR) 
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=j_5T-xIePNE&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=7">Click here to watch demo video</a>
+### :point_right: Description-->
+### :point_right: <a href="">Click here to download app</a>
+
+## 10.	Multiple Airplane Heli Placing (MarkerLess AR)  
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=9iHeGCS5efI&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=9">Click here to watch demo video</a>
+### :point_right: Description-->
+### :point_right: <a href="">Click here to download app</a>
+
 </div>
 
-### The scoring System of this game :point_down:
+### Here are tow types of augmented reality :point_down:
 
-- [x] The snake has eaten food.
-- [ ] The snake has bit its body.
-
-### Two types of Scores are there :point_down:
-
-- 'Highscore'
-- 'Score'
+- [x] Marker-based.
+- [x] Markerless.
 
 ## Purpose :point_down:
 
 <div align="justified">
-I have made this for entertainment of children as well as adults. Anyone can play it very easily. The objective of the game is to make the other player crash. The snake game is simple game. In this game the snake is eating some foods and get its size larger in step by step and getting some score.
+
 </div>
 
 ## Importance :point_down:
 
 <div align="justified">
-A snake game is an arcade maze game which has been developed by Gremlin Industries and published by Sega in October 1976. It is considered to be a skillful game and has popularized among people for generations. The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in. The player’s objective in the game is to achieve maximum points as possible by collecting food or fruits. The player loses once the snake hits the wall or hits itself. It is a very popular game. 
+
 </div>
-
-## Folder Structure :point_down:
-
-```bash
-SNAKE_GAME
-    ├── snake_game.py
-    ├── snake_gui.py
-    ├── highscore.txt
-    ├── scorecard.txt
-    └── mp3 songs
-```
-<details>
-    <summary>
-        "To read about making this project click here"
-        </summary>
-    I have made this game using Python3. I have created two python files snake_game.py and snake_gui.py. The first one is for game and the second one is for the GUI. I have saved highscore in a file. Each time the snake eats food, its size increases. I have used some mp3 songs for background musics.
-</details>
     
 ## Screenshots :point_down: 
 
 <div align="center">
     
-<a href="PICS/gui.png"><img src="PICS/gui.png" width="800" height= "280"></a>
-    
-<a href="PICS/snake1.jpeg"><img src="PICS/snake1.jpeg" width="400" height= "280"></a> <a href="PICS/snake2.jpeg"><img src="PICS/snake2.jpeg" width="400" height= "280"></a>
-
-<a href="PICS/snake3.jpeg"><img src="PICS/snake3.jpeg" width="400" height= "280"></a> <a href="PICS/snake4.jpeg"><img src="PICS/snake4.jpeg" width="400" height= "280"></a>
+<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
 
 </div>
 
