@@ -48,6 +48,10 @@ I have made some hardware projects with my friends.
 
 <div align="justified">
 
+## RESEARCH PAPER PUBLISHED ON IRJET Analysis of Obstacle Detection with Distance Measuring using Arduino Uno and Ultrasonic Sensor :point_down:
+
+**https://www.irjet.net/archives/V8/i11/IRJET-V8I11259.pdf**
+
 </div>
     
 
