@@ -44,12 +44,6 @@ I have made some hardware projects with my friends.
 
 </div>
 
-## Purpose :point_down:
-
-<div align="justified">
-
-</div>
-
 ## Credits :point_down:
 
 <div align="justified">
