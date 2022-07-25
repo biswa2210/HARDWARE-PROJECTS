@@ -34,12 +34,12 @@ I have made some hardware projects with my friends.
 
 ## 3. Distance Measuring System
 ### :point_right: <a href="https://drive.google.com/file/d/1vA33_icvku8bQoOdZXIm3QgZeHgBOH1S/view">Click here to read documentaion</a>
-### :point_right: <a href="">Click here to watch demo video</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=GQrd_YIcHT8&list=PL0lbDlMJ1h4h6TaNL4hLovjkflK9xvBvs&index=2">Click here to watch demo video</a>
 ### :point_right: Description--> This is a hardware Iot project using SONAR SENSOR and ARDUINO which is used to measure distance of an object from the Sensor. 
 
 ## 4. Hand Gesture Control
 ### :point_right: <a href="https://docs.google.com/document/d/14-i-M2EjOZOa8zU4FdnJFKTLcyAQ18dW/edit">Click here to read documentation</a>
-### :point_right: <a href="">Click here to watch demo video</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=LBHqbemPd7E&list=PL0lbDlMJ1h4h6TaNL4hLovjkflK9xvBvs&index=1&t=76s">Click here to watch demo video</a>
 ### :point_right: Description--> This is an IOT Project using SONAR sensor and Arduino using which we can control video playing on computer. 
 
 </div>
